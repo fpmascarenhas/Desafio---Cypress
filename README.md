@@ -1,4 +1,4 @@
-![TestCypress](https://github.com/fpmascarenhas/Desafio---Cypress/assets/69934229/d56dd524-dd4c-447a-808f-f24a76f444fd)
+![GIF-2023-05-10-14-11-55](https://github.com/fpmascarenhas/Desafio---Cypress/assets/69934229/a7c5d275-f136-4adb-9f0f-d20555b6f9e0)
 # Desafio - Cypress
 'fpmascarenhas'
 
